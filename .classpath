@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_271"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/groovy-2.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/groovy-json-2.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/groovy-xml-2.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/hamcrest-library-1.3.jar" sourcepath="C:/Users/sreek/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/json-path-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/rest-assured-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/rest-assured-common-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files/xml-path-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (1)/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (1)/groovy-2.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (1)/groovy-json-2.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (1)/json-path-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (1)/rest-assured-common-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/json-schema-validator-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="D:/SK(STUDY)/Automation/RestAPITesting/RestAssured-Libv3.0.2/jar_files (2)/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sreek/Downloads/TestNG-v6.9.9-Jar/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
